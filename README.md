@@ -1,2 +1,2 @@
 # Advent_of_Code
-Advent of code solutions in various langauges. Primarily for learning hwo to write Golang
+Advent of code solutions in various langauges. Primarily for learning how to write Golang
