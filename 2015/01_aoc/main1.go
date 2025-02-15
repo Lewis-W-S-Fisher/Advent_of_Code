@@ -6,6 +6,8 @@ import (
 	"log"
 )
 
+// Long winded but learning about the language
+
 func main() {
 	data, err := os.ReadFile("/Users/lf16/Documents/GitHub/Advent_of_Code/puzzle_inputs/2015/01_aoc_2015.txt")
 	// data := aoc1read()
